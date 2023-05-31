@@ -1,3 +1,7 @@
-.dark {
-    background-color:maroon;
+.background {
+    background-color: black;
+}
+
+.text {
+    color: azure;
 }
