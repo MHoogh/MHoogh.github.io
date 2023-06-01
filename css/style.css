@@ -1,7 +1,11 @@
 .background {
-    background-color: black;
+    background-color: #173518;
 }
 
 .text {
     color: azure;
+}
+
+.navColor {
+    background-color: #0f2310;
 }
