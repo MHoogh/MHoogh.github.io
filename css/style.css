@@ -1,4 +1,4 @@
-.background {
+.backgroundOne {
     background-color: #173518;
 }
 
@@ -8,4 +8,11 @@
 
 .navColor {
     background-color: #0f2310;
+}
+
+.bgOneImg {
+    background-image: url(../img/ComicCon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
 }
