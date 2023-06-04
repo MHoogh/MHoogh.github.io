@@ -1,5 +1,5 @@
 .backgroundOne {
-    background-color: #173518;
+    background-color: #941400;
 }
 
 .text {
@@ -7,11 +7,11 @@
 }
 
 .navColor {
-    background-color: #0f2310;
+    background-color: #6d0006;
 }
 
 .bgOneImg {
-    background-image: url(../img/ComicCon.jpg);
+    background-image: url(../img/Stephen-Stange.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
