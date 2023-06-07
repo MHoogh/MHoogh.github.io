@@ -30,3 +30,18 @@
 .navColorTwo {
     background-color: #25252c;
 }
+
+.bgThreeImg {
+    background-image: url(../img/Ryan-Reynolds.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.backgroundThree {
+    background-color: #37373a;
+}
+
+.navColorThree {
+    background-color: #25252c;
+}
