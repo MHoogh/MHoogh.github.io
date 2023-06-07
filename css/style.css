@@ -16,3 +16,17 @@
     background-size: cover;
     height: 100vh;
 }
+.bgTwoImg {
+    background-image: url(../img/Charles-Xavier.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.backgroundTwo {
+    background-color: #37373a;
+}
+
+.navColorTwo {
+    background-color: #25252c;
+}
