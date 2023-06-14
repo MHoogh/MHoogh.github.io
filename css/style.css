@@ -45,3 +45,10 @@
 .navColorThree {
     background-color: #25252c;
 }
+
+.bgFourImg {
+    background-image: url(../img/X-Men.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
