@@ -1,13 +1,6 @@
-.backgroundOne {
-    background-color: #941400;
-}
 
 .text {
     color: azure;
-}
-
-.navColor {
-    background-color: #6d0006;
 }
 
 .bgOneImg {
@@ -23,14 +16,6 @@
     height: 100vh;
 }
 
-.backgroundTwo {
-    background-color: #37373a;
-}
-
-.navColorTwo {
-    background-color: #25252c;
-}
-
 .bgThreeImg {
     background-image: url(../img/Ryan-Reynolds.jpg);
     background-repeat: no-repeat;
@@ -38,11 +23,11 @@
     height: 100vh;
 }
 
-.backgroundThree {
+.background {
     background-color: #37373a;
 }
 
-.navColorThree {
+.navColor {
     background-color: #25252c;
 }
 
@@ -55,6 +40,13 @@
 
 .bgFiveImg {
     background-image: url(../img/Jean-Grey.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.bgsixImg {
+    background-image: url(../img/John-Wick.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
