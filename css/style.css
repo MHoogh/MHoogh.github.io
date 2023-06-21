@@ -51,3 +51,10 @@
     background-size: cover;
     height: 100vh;
 }
+
+.bgSevenImg {
+    background-image: url(../img/Loki.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
