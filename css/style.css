@@ -45,7 +45,7 @@
     height: 100vh;
 }
 
-.bgsixImg {
+.bgSixImg {
     background-image: url(../img/John-Wick.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -54,6 +54,13 @@
 
 .bgSevenImg {
     background-image: url(../img/Loki.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.bgEightImg {
+    background-image: url(../img/Jurassic.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
