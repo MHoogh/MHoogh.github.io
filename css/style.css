@@ -3,26 +3,6 @@
     color: azure;
 }
 
-.bgOneImg {
-    background-image: url(../img/Stephen-Stange.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100vh;
-}
-.bgTwoImg {
-    background-image: url(../img/Charles-Xavier.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100vh;
-}
-
-.bgThreeImg {
-    background-image: url(../img/Ryan-Reynolds.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100vh;
-}
-
 .background {
     background-color: #37373a;
 }
@@ -31,36 +11,20 @@
     background-color: #25252c;
 }
 
-.bgFourImg {
-    background-image: url(../img/X-Men.jpg);
+.bgImgOne {
+    background-image: url(../img/Jurassic.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
 }
-
-.bgFiveImg {
-    background-image: url(../img/Jean-Grey.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100vh;
-}
-
-.bgSixImg {
-    background-image: url(../img/John-Wick.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100vh;
-}
-
-.bgSevenImg {
+.bgImgTwo {
     background-image: url(../img/Loki.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
 }
-
-.bgEightImg {
-    background-image: url(../img/Jurassic.jpg);
+.bgImgThree {
+    background-image: url(../img/James-Logan.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
